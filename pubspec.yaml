@@ -21,7 +21,7 @@ analyzer:
   enable-experiment: non-nullable
   
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: '>=3.1.2 <4.0.0'
 
 dependencies:
   flutter:
